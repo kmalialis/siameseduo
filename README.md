@@ -15,6 +15,6 @@ Please check the “instructions.txt” file.
 Please check the “requirements.txt” file.
 
 # Citation request
-If you have found our paper and/or part of our code useful and/or datasets, please cite our work as follows:
+If you have found our paper and/or part of our code and/or datasets useful, please cite our work as follows:
 
 Kleanthis Malialis, Stylianos Filippou, Christos G. Panayiotou, Marios M. Polycarpou, SiameseDuo++: Active learning from data streams with dual augmented siamese networks, Neurocomputing, Volume 637, 2025, 130083, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2025.130083.
