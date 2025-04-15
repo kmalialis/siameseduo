@@ -4,7 +4,7 @@ Data stream mining, also known as stream learning, is a growing area which deals
 
 # Paper
 
-You can get a free copy of the accepted version from Zenodo ([link](https://zenodo.org/records/15127904)) or arXiv (TBA).
+You can get a free copy of the accepted version from Zenodo ([link](https://zenodo.org/records/15127904)) or arXiv ([link](https://arxiv.org/abs/2504.04613)).
 
 For the published version, visit the the publisher’s website ([link](https://www.sciencedirect.com/science/article/pii/S0925231225007556)).
 
